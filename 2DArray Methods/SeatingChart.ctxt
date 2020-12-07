@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SeatingChart
+comment1.params=
+comment1.target=SeatingChart()
+comment2.params=
+comment2.target=void\ printmyArray()
+comment3.params=
+comment3.target=int\ getClassNum()
+comment4.params=
+comment4.target=int\ countC()
+comment5.params=n
+comment5.target=void\ changeCs(java.lang.String)
+numComments=6

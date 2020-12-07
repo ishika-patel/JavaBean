@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Jedi
+comment0.text=\r\n\ Jedi\ training\ for\ Luke\ Skywalker\r\n\r\n\ @Ishika\ &\ Helen\r\n\ 9/19/2018\r\n
+comment1.params=
+comment1.target=Jedi()
+comment2.params=n\ fL
+comment2.target=Jedi(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=n
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=int\ getForceLevel()
+comment6.params=fL
+comment6.target=void\ setForceLevel(int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=int\ newFL()
+numComments=9

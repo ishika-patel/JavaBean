@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=IntegerPractice
+comment1.params=
+comment1.target=IntegerPractice()
+comment2.params=
+comment2.target=void\ printMyArray()
+comment3.params=
+comment3.target=int\ getRow()
+comment4.params=
+comment4.target=int\ getColumn()
+comment5.params=
+comment5.target=int\ getUnder10()
+comment6.params=scalar
+comment6.target=void\ multiplyMyArray(int)
+comment7.params=
+comment7.target=void\ switchRows()
+numComments=8

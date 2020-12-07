@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Calculator
+comment0.text=\r\n\ class\ Calculator\ and\ its\ driver\ do\ the\ addition,\ subtraction,\ \r\n\ multiplication,\ division,\ and\ modulus\ of\ those\ two\ numbers.\r\n\r\n\r\n\ @Ishika\ Patel\r\n\ @09/20/2018\r\n
+comment1.params=
+comment1.target=Calculator()
+comment2.params=num1\ num2
+comment2.target=Calculator(double,\ double)
+comment3.params=
+comment3.target=double\ getAdd()
+comment4.params=
+comment4.target=double\ getSub()
+comment5.params=
+comment5.target=double\ getMult()
+comment6.params=
+comment6.target=double\ getDiv()
+comment7.params=
+comment7.target=double\ getMod()
+comment8.params=num1\ num2
+comment8.target=void\ setNumbers(double,\ double)
+numComments=9

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MathClassLab
+comment0.text=\r\n\ class\ MathClassLab\ runs\ 4\ programs\ the\ first\ is\ a\ fair\ coin\ toss\ to\ see\ the\ number\ of\ tails,\ the\ second\ is\ a\ program\ that\ returns\r\n\ the\ total\ number\ of\ rolls\ needed\ to\ fill\ a\ specific\ dice\ quota,\ the\ third\ program\ is\ a\ magic\ *\ ball\ response,and\ the\ last\ program\r\n\ is\ a\ program\ to\ determine\ the\ number\ of\ participants\ that\ should\ be\ assigned\ to\ each\ treamtnet\ in\ a\ medical\ study\r\n\r\n\ @Ishika\ Patel\r\n\ @01/10/2019\r\n
+comment1.params=flips
+comment1.target=int\ numTails(int)
+comment2.params=diceNumb\ timesNeeded
+comment2.target=int\ countRolls(int,\ int)
+comment3.params=response
+comment3.target=java.lang.String\ magic8Ball(java.lang.String)
+comment4.params=totalParticipants
+comment4.target=java.lang.String\ medicalStudy(int)
+numComments=5
